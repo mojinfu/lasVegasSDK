@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func TestSelectGreatestCardsComposer(t *testing.T) {
+func TestRate(t *testing.T) {
 	t.Error("AC")
 	rateFunc := func() int8 {
 		var myTable table = table{
